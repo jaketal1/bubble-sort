@@ -18,3 +18,4 @@ def bubbleSort(array):
   swapped = True
 while swapped == True: 
   swapped = False 
+  for i in range(1, len(array)):
