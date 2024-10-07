@@ -15,3 +15,4 @@
 # Bonus Task: After all the tasks are complete, implement unit tests to verify that the bubbleSort function works as expected.
 
 def bubbleSort(array):
+  swapped = True
